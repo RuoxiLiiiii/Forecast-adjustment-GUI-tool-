@@ -1,1 +1,1 @@
-# Forecast-adjustment-GUI-tool-
+# Forecast-adjustment-GUI-tool
