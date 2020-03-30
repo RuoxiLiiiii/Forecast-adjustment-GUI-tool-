@@ -13,5 +13,5 @@ python -m Tkinter
 ```
 ## Authors
 
-* **Ruoxi Li** - *Initial work* - [PurpleBooth](https://github.com/RuoxiLiiiii/Forecast-adjustment-GUI-tool-)
+* **Ruoxi Li** - *Initial work* - [GUI tool](https://github.com/RuoxiLiiiii/Forecast-adjustment-GUI-tool-)
 
