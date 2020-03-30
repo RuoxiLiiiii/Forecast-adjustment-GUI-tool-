@@ -47,7 +47,7 @@ label_query.grid(row = 0, column = 1,pady = 5)
 label_query2 = tk.Label(f2, text = 'Please upload second transaction demand data',font = ('Verdana 10 bold'), width = 50)
 label_query2.grid(row = 1, column = 1,pady = 5)
 
-label_query3 = tk.Label(f2, text = 'Please upload MMI Forecast data',font = ('Verdana 10 bold'), width = 50)
+label_query3 = tk.Label(f2, text = 'Please upload Forecast data',font = ('Verdana 10 bold'), width = 50)
 label_query3.grid(row = 2, column = 1,pady = 5)
 
 label_query4 = tk.Label(f2, text = 'Make sure there exists item in PC and VAU class',font = ('Verdana 10 bold'), bg=  'yellow', width = 50)
