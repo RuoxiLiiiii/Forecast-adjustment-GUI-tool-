@@ -5,7 +5,8 @@ It's a user inferface which can be applied to different solutions for the stakeh
 
 The Framework looks as below. You can change the settings and different windows based on your own needs.
 
-![Overview](GUI appearance.png)
+<img width="601" alt="GUI appearance" src="https://user-images.githubusercontent.com/51651656/77933323-f2b44d80-72ae-11ea-9cf1-766ef0c1625b.PNG">
+
 
 ### Prerequisites
 
