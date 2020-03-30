@@ -5,6 +5,8 @@ It's a user inferface which can be applied to different solutions for the stakeh
 
 The Framework looks as below. You can change the settings and different windows based on your own needs.
 
+![Overview](GUI appearance.png)
+
 ### Prerequisites
 
 Packages you need to install or make sure that you have this package bundled with Python
